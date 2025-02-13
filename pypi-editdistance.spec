@@ -7,7 +7,7 @@
 #
 Name     : pypi-editdistance
 Version  : 0.8.1
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/d5/18/9f4f975ca87a390832b1c22478f3702fcdf739f83211e24d054b7551270d/editdistance-0.8.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d5/18/9f4f975ca87a390832b1c22478f3702fcdf739f83211e24d054b7551270d/editdistance-0.8.1.tar.gz
 Summary  : Fast implementation of the edit distance (Levenshtein distance)
